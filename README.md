@@ -1,2 +1,1 @@
-# Rishi-Raj
-Sudoko Project
+# Sukodu-solver-using-dsa-html-css-and-dsa-backtracking-
